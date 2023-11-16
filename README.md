@@ -1,10 +1,6 @@
 # Skin-Lesion-Detection-using-Deep-Learning-Approach
 
-Applied Convolutional Neural Networks (CNNs) and some transfer learning models like VGG16, EfficientNET, MobileNet, and DenseNet to create a robust system for classifying skin lesions into specific categories.
-
-Addressed class imbalance and enhanced generalization with data preprocessing and augmentation.
-
-Used TensorFlow and Flask to build user friendly web application
+Applied Convolutional Neural Networks (CNNs) and some transfer learning models like VGG16, EfficientNET, MobileNet, and DenseNet to create a robust system for classifying skin lesions into specific categories.Addressed class imbalance and enhanced generalization with data preprocessing and augmentation.Used TensorFlow and Flask to build user friendly web application
 
 • Exploratory Data Analysis Code
 https://colab.research.google.com/drive/1xGKkr7PNW-aW-GqBhBLM3RGhNJhkSCOv?usp=drive_link
@@ -14,6 +10,7 @@ https://colab.research.google.com/drive/1HhK4iBcHdqxFg9JKQDEKy1KGIjTQBa64?usp=d
 
 • MobileNet Model and Optimisation Implementation Code
 https://colab.research.google.com/drive/1kl0MMlpEHguWVTXmdXgsNYqt8vtiE9T?usp=drive_link
+
 • VGG16 Model Implementation Code
 https://colab.research.google.com/drive/1UsR_8q4b0tGER3f_vIcixDBDfoAnyxx5?usp=drive_link
 
